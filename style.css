@@ -1,0 +1,18 @@
+body {
+    font-family: IMPACT;
+    background-color:black;
+    color:aqua ;
+}
+
+h1 {
+    text-align: center;
+}
+image{
+    width: 100px;
+    height:100px;
+    
+}
+p{
+    color: aqua;
+    text-align: center;
+}
